@@ -1,0 +1,12 @@
+{ "opal-analytics-stan":
+        {
+    	    "description": "Integration with RSTAN",
+            "units": "STAN.py",
+            "supports": "",
+            "python_dependencies": "",
+            "system_dependencies": "",
+            "api": "analytics",
+            "interface": "analytics",
+            "installation_script": ""
+        }
+}
